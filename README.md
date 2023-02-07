@@ -6,17 +6,22 @@ I'm a journeyer.
 
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
-[![huraicid's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraicid&hide=stars,prs,contribs&theme=tokyonight)](https://github.com/huraicid/github-readme-stats)
+<a href="https://github.com/huraicid/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&hide=stars,prs,contribs&theme=tokyonight" />
+</a>
 <!-- Source Code Statistics -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huraicid&layout=compact&theme=tokyonight&hide=HTML,css)](https://github.com/huraicid/)
+<a href="https://github.com/huraicid/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huraicid&layout=compact&theme=tokyonight&hide=HTML,css" />
+</a>
 
 The html and css items are excluded. Since most of them are from *github.io*.
 
 
 ### Links
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
-- Qiita: https://qiita.com/huraicid
-- Book Meter(読書メーター): https://bookmeter.com/users/954631
+- **Qiita**: https://qiita.com/huraicid
+- **Blog**(Hobbies Only): https://huraicid.hatenablog.com/
+- **Book Meter**(読書メーター): https://bookmeter.com/users/954631
 
 
 ### Artifacts I used on this page

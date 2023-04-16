@@ -1,6 +1,5 @@
 ### Hello World!! 👋
-![keikenchi](https://user-images.githubusercontent.com/96579570/216797826-2b6fbcfd-519a-4448-85d9-6dd855c93963.jpg)
-
+<img width="400" alt="keikenchi" src="https://user-images.githubusercontent.com/96579570/232289700-bcfc2793-f624-4b58-9439-747c927b3f1c.PNG">
 I'm a journeyer.
 
 

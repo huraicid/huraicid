@@ -31,7 +31,7 @@ The html and css items are excluded. Since most of them are from *github.io*.
 ##### GitHub Status
 - GitHub Stats Card & Top Languages Card: *raghazra/github-readme-stats*, https://github.com/https://shields.io/
 ##### Links
-- Twitter Button: *shields.io*, https://shields.io/
+- Twitter Button: *shields.io*, https://shields.io/ 
 
 
 

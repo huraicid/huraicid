@@ -1,7 +1,7 @@
 ### Hello World!! 👋
 <img width="400" alt="keikenchi" src="https://user-images.githubusercontent.com/96579570/236678074-d87b9ea4-ccb9-4ccd-afe6-29b7a6200213.PNG">
 
-I'm a journeyer.
+I'm a journeyer going anywhere.
 
 
 

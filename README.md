@@ -20,7 +20,7 @@ The html and css items are excluded. Since most of them are from *github.io*.
 
 ### Links/Contacts
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
-- **Discord**: `CID#4499`
+- **Discord**: `huraicid`
 - **Qiita**: https://qiita.com/huraicid
 - **Blog**(Hobbies Only): https://huraicid.hatenablog.com/
 - **Book Meter**(読書メーター): https://bookmeter.com/users/954631

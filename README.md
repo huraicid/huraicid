@@ -11,11 +11,12 @@ I'm a journeyer going anywhere.
 <a href="https://github.com/huraicid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&hide=stars,prs,contribs&theme=tokyonight" />
 </a>
+-->
 <!-- Source Code Statistics -->
 <a href="https://github.com/huraicid/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huraicid&layout=compact&theme=tokyonight&hide=HTML,css" />
 </a>
--->
+
 
 The html and css items are excluded. Since most of them are from *github.io*.
 

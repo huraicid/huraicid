@@ -22,7 +22,7 @@ The html and css items are excluded. Since most of them are from *github.io*.
 
 
 ### Links/Contacts
-- **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
+- **X**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
 - **Discord**: `huraicid`
 - **Qiita**: https://qiita.com/huraicid
 - **Book Meter**(読書メーター): https://bookmeter.com/users/954631

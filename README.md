@@ -1,7 +1,7 @@
 ### Hello World!! 👋
 <img width="400" alt="keikenchi" src="./keikenchi.jpg">
 
-I'm a journeyer going anywhere.
+*My magic words are "spontaneity", "momentum", and "brisk"!*
 
 
 

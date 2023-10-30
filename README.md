@@ -18,8 +18,7 @@
 </a>
 
 
-The html and css items are excluded. Since most of them are from *github.io*.
-
+The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
 ### Links/Contacts
 - **X**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)

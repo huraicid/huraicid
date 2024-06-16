@@ -24,7 +24,6 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 - **X**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
 - **Discord**: `huraicid`
 - **Qiita**: https://qiita.com/huraicid
-- **Book Meter**(読書メーター): https://bookmeter.com/users/954631
 
 
 

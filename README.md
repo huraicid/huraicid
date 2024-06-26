@@ -7,16 +7,9 @@
 
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
-<!-- 
 <a href="https://github.com/huraicid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&hide=stars,prs,contribs&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&hide=stars,prs,contribs&theme=tokyonight&count_private=true" />
 </a>
--->
-<!-- Source Code Statistics -->
-<a href="https://github.com/huraicid/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huraicid&layout=compact&theme=tokyonight&hide=HTML,css" />
-</a>
-
 
 The HTML and CSS items have been excluded, as most of them are from *github.io.*
 

@@ -13,12 +13,6 @@
 
 The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
-### Links/Contacts
-- **X**: ![Twitter Follow](https://img.shields.io/twitter/follow/huraicid)
-- **Discord**: `huraicid`
-- **Qiita**: https://qiita.com/huraicid
-
-
 
 ### Artifacts I used on this page
 ##### Hello world

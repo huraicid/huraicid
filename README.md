@@ -4,6 +4,8 @@
 *My magic words are "spontaneity", "momentum", and "brisk"!*
 
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cs,cpp,css,docker,eclipse,git,github,gitlub,gradle,html,java,js,jquery,latex,linux,mysql,notion,postgres,powershell,py,spring,ts,)](https://skillicons.dev)
 
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
@@ -12,8 +14,6 @@
 </a>
 
 The HTML and CSS items have been excluded, as most of them are from *github.io.*
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraicid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Artifacts I used on this page

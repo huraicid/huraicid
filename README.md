@@ -13,6 +13,8 @@
 
 The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraicid)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Artifacts I used on this page
 ##### Hello world

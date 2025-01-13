@@ -3,9 +3,7 @@
 
 *My magic words are "spontaneity", "momentum", and "brisk"!*
 
-
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cs,cpp,css,docker,eclipse,git,github,gitlub,gradle,html,java,js,jquery,latex,linux,mysql,notion,postgres,powershell,py,spring,ts,)](https://skillicons.dev)
+<!-- -->
 
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
@@ -15,6 +13,34 @@
 
 The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
+<!-- -->
+
+### Skills
+#### Programming Languages/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,jquery,py,powershell,spring,ts,unity)](https://skillicons.dev)
+
+#### Code Management
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlub)](https://skillicons.dev)
+
+#### Containerization & Orchestration
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+#### Database
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres)](https://skillicons.dev)
+
+#### Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+#### OS
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+
+#### IDEs/Build Tools
+[![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,maven,vidualstudio,vscode)](https://skillicons.dev)
+
+#### Others
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev
+
+<!-- -->
 
 ### Artifacts I used on this page
 ##### Hello world
@@ -25,8 +51,7 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 ##### Links
 - Twitter Button: *shields.io*, https://shields.io/ 
 
-
-
+<!-- -->
 
 <!--
 **huraicid/huraicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -38,7 +38,7 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,maven,visualstudio,vscode)](https://skillicons.dev)
 
 #### Others
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev)
 
 <!-- -->
 

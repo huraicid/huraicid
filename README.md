@@ -1,6 +1,8 @@
 ### Hello World!! 👋
 <img width="400" alt="keikenchi" src="./keikenchi.jpg">
 
+huraicid(he/him) is a Sake-suki engineer.
+
 <!-- -->
 
 ### 📊GitHub Status 📋

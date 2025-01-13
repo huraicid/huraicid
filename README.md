@@ -1,8 +1,6 @@
 ### Hello World!! 👋
 <img width="400" alt="keikenchi" src="./keikenchi.jpg">
 
-*My magic words are "spontaneity", "momentum", and "brisk"!*
-
 <!-- -->
 
 ### 📊GitHub Status 📋
@@ -15,20 +13,21 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
 <!-- -->
 
+---
 ### Skills
 #### Programming Languages/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,jquery,py,powershell,spring,ts,unity)](https://skillicons.dev)
 
-#### Code Management
+#### Code Managements
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlub)](https://skillicons.dev)
 
-#### Containerization & Orchestration
+#### Containerizations & Orchestrations
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
-#### Database
+#### Databases
 [![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres)](https://skillicons.dev)
 
-#### Infrastructure
+#### Infrastructures
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 #### OS
@@ -39,17 +38,6 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
 #### Others
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev)
-
-<!-- -->
-
-### Artifacts I used on this page
-##### Hello world
-- *Keikenchi(経県値)*: https://uub.jp/j.cgi
-  - The Screenshot on the iOS Keikenchi app: https://qdan.hateblo.jp/entry/keikenchi
-##### GitHub Status
-- GitHub Stats Card & Top Languages Card: *raghazra/github-readme-stats*, https://github.com/https://shields.io/
-##### Links
-- Twitter Button: *shields.io*, https://shields.io/ 
 
 <!-- -->
 

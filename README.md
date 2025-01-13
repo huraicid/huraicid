@@ -15,8 +15,9 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
 ---
 ### Skills
+The following skills are limited to those with >1 year of experience using them.
 #### Programming Languages/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,jquery,py,powershell,spring,ts,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,powershell,spring)](https://skillicons.dev)
 
 #### Code Managements
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlub)](https://skillicons.dev)
@@ -25,16 +26,13 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres)](https://skillicons.dev)
-
-#### Infrastructures
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 #### OS
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
 
 #### IDEs/Build Tools
-[![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,maven,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,maven,visualstudio,vscode)](https://skillicons.dev)
 
 #### Others
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev)

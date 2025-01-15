@@ -3,6 +3,8 @@
 
 huraicid(he/him) is a Sake-suki engineer.
 
+(`Sake-suki` means "loving Sake")
+
 <!-- -->
 
 ### 📊GitHub Status 📋

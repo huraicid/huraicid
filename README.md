@@ -15,7 +15,7 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 
 <!-- -->
 
----
+## Skills/Certifications
 <!--
 NOTE: 見づらいので一旦コメントアウト
 ### Skills
@@ -42,7 +42,14 @@ The following skills are limited to those with >1 year of experience using them.
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev)
 -->
 
-<!-- -->
+### Certifications
+| Date | Certifications |
+| --- | --- |
+| 2020/5 | ITパスポート試験/Information Technology Passport Examination(IP) |
+| 2020/6 | 統計検定2級/Japan Statistical Society Certificate - 2nd Class |
+| 2021/6 | 基本情報技術者試験/Fundamental Information Technology Engineer(FE) |
+| 2023/7 | 応用情報技術者試験/Applied Information Technology Engineer Examination(AP) |
+| 2024/12 | AWS Certified Cloud Practitioner |
 
 <!--
 **huraicid/huraicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

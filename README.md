@@ -1,9 +1,7 @@
 ### Hello World!! 👋
 <img width="400" alt="keikenchi" src="./keikenchi.jpg">
 
-huraicid(he/him) is a Sake-suki engineer.
-
-(`Sake-suki` means "loving Sake")
+日本酒が好きです。
 
 <!-- -->
 
@@ -18,6 +16,8 @@ The HTML and CSS items have been excluded, as most of them are from *github.io.*
 <!-- -->
 
 ---
+<!--
+NOTE: 見づらいので一旦コメントアウト
 ### Skills
 The following skills are limited to those with >1 year of experience using them.
 #### Programming Languages/Frameworks
@@ -40,6 +40,7 @@ The following skills are limited to those with >1 year of experience using them.
 
 #### Others
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,md,latex,notion)](https://skillicons.dev)
+-->
 
 <!-- -->
 

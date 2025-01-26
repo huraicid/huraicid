@@ -45,11 +45,11 @@ The following skills are limited to those with >1 year of experience using them.
 ### Certifications
 | Date | Certifications |
 | --- | --- |
-| 2020/5 | ITパスポート試験/Information Technology Passport Examination(IP) |
-| 2020/6 | 統計検定2級/Japan Statistical Society Certificate - 2nd Class |
-| 2021/6 | 基本情報技術者試験/Fundamental Information Technology Engineer(FE) |
-| 2023/7 | 応用情報技術者試験/Applied Information Technology Engineer Examination(AP) |
-| 2024/12 | AWS Certified Cloud Practitioner |
+| 2020/5 | **ITパスポート試験**/Information Technology Passport Examination(IP) |
+| 2020/6 | **統計検定2級**/Japan Statistical Society Certificate - 2nd Class |
+| 2021/6 | **基本情報技術者試験**/Fundamental Information Technology Engineer(FE) |
+| 2023/7 | **応用情報技術者試験**/Applied Information Technology Engineer Examination(AP) |
+| 2024/12 | **AWS Certified Cloud Practitioner** |
 
 <!--
 **huraicid/huraicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

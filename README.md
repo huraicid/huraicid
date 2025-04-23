@@ -11,8 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&theme=tokyonight&count_private=true" />
 </a>
 
-The HTML and CSS items have been excluded, as most of them are from *github.io.*
-
 <!-- -->
 
 ## Skills/Certifications

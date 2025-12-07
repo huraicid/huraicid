@@ -7,9 +7,9 @@
 
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
-<a href="https://github.com/huraicid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huraicid&theme=tokyonight&count_private=true" />
-</a>
+![github stats](https://github-readme-stats-huraicid.vercel.app/api/?username=huraicid)
+![top langs](https://github-readme-stats-huraicid.vercel.app/api/top-langs/?username=huraicid)
+
 
 <!-- -->
 

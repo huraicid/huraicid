@@ -11,9 +11,6 @@
 ![top langs](https://github-readme-stats-huraicid.vercel.app/api/top-langs/?username=huraicid&theme=tokyonight&count_private=true")
 
 
-<!-- -->
-
-## Skills/Certifications
 <!--
 NOTE: 見づらいので一旦コメントアウト
 ### Skills

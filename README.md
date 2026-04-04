@@ -1,10 +1,3 @@
-### Hello World!! 👋
-<img width="400" alt="keikenchi" src="./keikenchi.jpg">
-
-日本酒が好きです。
-
-<!-- -->
-
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
 ![github stats](https://github-readme-stats-huraicid.vercel.app/api/?username=huraicid&theme=tokyonight&count_private=true")

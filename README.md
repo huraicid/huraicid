@@ -1,7 +1,6 @@
 ### 📊GitHub Status 📋
 <!-- Repository Status -->
 ![github stats](https://github-readme-stats-huraicid.vercel.app/api/?username=huraicid&theme=tokyonight&count_private=true")
-![top langs](https://github-readme-stats-huraicid.vercel.app/api/top-langs/?username=huraicid&theme=tokyonight&count_private=true")
 
 
 <!--
